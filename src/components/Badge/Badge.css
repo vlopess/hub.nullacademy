@@ -1,0 +1,67 @@
+/* From Uiverse.io by kamehame-ha */
+/*
+
+This is actually the most neutral button desing of all time,
+fits everywhere no matter if it is dark or light mode,
+just change colors.
+I created original using tailwindCSS, here's classes:
+
+text-blue-500 bg-blue-500/10 border border-blue-500 rounded-md px-2 py-[2px] text-sm cursor-pointer flex shrink-0
+text-yellow-500 bg-yellow-500/10 border border-yellow-500 rounded-md px-2 py-[2px] text-sm cursor-pointer flex shrink-0
+text-green-500 bg-green-500/10 border border-green-500 rounded-md px-2 py-[2px] text-sm cursor-pointer flex shrink-0
+text-indigo-500 bg-indigo-500/10 border border-indigo-500 rounded-md px-2 py-[2px] text-sm cursor-pointer flex shrink-0
+
+*/
+
+.badges {
+    display: flex;
+    gap: 1rem; /* 16px */
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.badges > button {
+    font-size: 0.875rem; /* 14px */
+    line-height: 1.25rem; /* 20px */
+    padding: 2px .5rem; /* 8px*/
+    cursor: pointer;
+    border: none;
+    border-radius: 0.375rem; /* 6px */
+    outline: none;
+}
+
+.badges .InProgressBadge {
+    background-color: rgba(59, 130, 246, 0.10);
+    color: rgb(59 130 246);
+    border: 1px rgb(59 130 246) solid;
+}
+
+.article:has(.InProgressBadge) p {
+    color: rgb(59 130 246);
+}
+
+.badges .PendingBadge {
+    background-color: rgba(128, 128, 128, 0.10);
+    color: rgb(128 128 128);
+    border: 1px rgb(128 128 128) solid;
+}
+
+.article:has(.PendingBadge) p {
+    color: rgb(128 128 128);
+}
+
+.badges .CompletedBadge {
+    background-color: rgba(34, 197, 94, 0.10);
+    color: rgb(34 197 94);
+    border: 1px rgb(34 197 94) solid;
+}
+
+.article:has(.CompletedBadge) p {
+    color: rgb(34 197 94);
+}
+
+.badges .red {
+    background-color: rgba(239, 68, 68, 0.10);
+    color: rgb(239 68 68);
+    border: 1px rgb(239 68 68) solid;
+}

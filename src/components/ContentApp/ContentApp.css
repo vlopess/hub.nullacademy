@@ -22,7 +22,7 @@
 
 .texto-pulsante{
     color: black;
-    font-family: "EB Garamond", serif;
+    font-family: 'StudioSans', serif;
     animation: pulsante 3s infinite linear;
 
 }
@@ -68,7 +68,7 @@
     width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .container-pulsante{
@@ -94,19 +94,21 @@
 
 .column-flex{
     width: 100vw;
-    height: 100vh;
     align-content: start;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
 
     h2{
         color: black;
         margin-bottom: 0;
-        font-family: "EB Garamond", serif;
+        font-family: 'StudioSans', serif;
     }
 
     p{
         color: lightslategray;
         margin-top: 0;
-        font-family: "EB Garamond", serif;
+        font-family: 'StudioSans', serif;
     }
 }
 
