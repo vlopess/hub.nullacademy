@@ -2,6 +2,7 @@ import Qrcode from "../../assets/png/qrcode.png";
 import lain from "../../assets/gif/lain.gif";
 import "./ContentApp.css";
 import {Card} from "../Card/Card.jsx";
+import {Switch} from "../Switch/Switch.jsx";
 
 export const ContentApp = () => {
 
@@ -92,6 +93,7 @@ export const ContentApp = () => {
                     <p>Acompanhe cada etapa do desenvolvimento do Null Academy.</p>
                 </div>
                 <div style={{display: "flex", alignItems: "center", flexDirection: "column"}}>
+                    <Switch/>
                     <Card data={data}/>
                 </div>
             </div>
