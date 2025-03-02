@@ -78,7 +78,7 @@
 
 
 
-@media (max-width: 778px) {
+@media (max-width: 1220px) {
     .container-flex {
         flex-direction: column-reverse;
     }

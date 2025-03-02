@@ -146,7 +146,7 @@
     width: 25%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1220px) {
     .title{
         font-size: 12px;
     }
