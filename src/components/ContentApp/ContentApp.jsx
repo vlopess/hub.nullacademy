@@ -14,8 +14,8 @@ export const ContentApp = () => {
                 "status": "In Progress",
                 "data_prevista": "03/03/2025",
                 "tarefas": [
-                    {"nome": "Definir escopo", "status": "In Progress"},
-                    {"nome": "Referências", "status": "Pending"}
+                    {"nome": "Definir escopo", "status": "Completed"},
+                    {"nome": "Referências", "status": "In Progress"}
                 ]
             },
             {
