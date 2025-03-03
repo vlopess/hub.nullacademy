@@ -62,7 +62,7 @@ export const ContentApp = () => {
                 "status": "Pending",
                 "data_prevista": "31/03/2025",
                 "tarefas": [
-                    {"nome": "Primeira Entrega "},
+                    {"nome": "Primeira Entrega", "status": "Pending"},
                     {"nome": "Feedback e corrigindo problemas identificados", "status": "Pending"}
                 ]
             },
