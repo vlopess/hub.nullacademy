@@ -24,7 +24,8 @@ export const ContentApp = () => {
                 "data_prevista": "04/03/2025",
                 "tarefas": [
                     {"nome": "Criando protótipo no Figma", "status": "In Progress"},
-                    {"nome": "Criando Design System", "status": "In Progress"}
+                    {"nome": "Criando Design System", "status": "In Progress"},
+                    {"nome": "Criando icones e personagens (base)", "status": "Pending"}
                 ]
             },
             {
