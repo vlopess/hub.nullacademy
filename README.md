@@ -6,7 +6,7 @@
     <td style="vertical-align: middle;">
       <h1>Null Academy Hub</h1>
       <p>
-        Bem-vindo ao Null Academy Hub! Este é o repositório do centro de informações e atualizações sobre o desenvolvimento do Null Academy, um aplicativo móvel gamificado para ensino de lógica e estruturas de dados. <a href="nullacademy.com.br">Aqui</a> você pode acompanhar o progresso do projeto e ver as próximas etapas. 
+        Bem-vindo ao Null Academy Hub! Este é o repositório do centro de informações e atualizações sobre o desenvolvimento do Null Academy, um aplicativo móvel gamificado para ensino de lógica e estruturas de dados. <a href="https://nullacademy.com.br/">Aqui</a> você pode acompanhar o progresso do projeto e ver as próximas etapas. 
       </p>
       </br>
     </td>
