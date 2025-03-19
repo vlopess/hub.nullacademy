@@ -33,8 +33,8 @@ export const ContentApp = () => {
                 "status": "In Progress",
                 "data_prevista": "12/03/2025",
                 "tarefas": [
-                    {"nome": "Criando app architecture", "status": "In Progress"},
-                    {"nome": "Aplicando o Design System", "status": "Pending"},
+                    {"nome": "Criando app architecture", "status": "Completed"},
+                    {"nome": "Aplicando o Design System", "status": "In Progress"},
                     {"nome": "Aplicando o TDD", "status": "Pending"},
                     {"nome": "Criando fluxos de telas", "status": "Pending"},
                     {"nome": "Criando trilhas de aprendizado", "status": "Pending"},
