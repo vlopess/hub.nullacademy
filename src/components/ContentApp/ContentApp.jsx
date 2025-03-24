@@ -34,17 +34,16 @@ export const ContentApp = () => {
                 "data_prevista": "12/03/2025",
                 "tarefas": [
                     {"nome": "Criando app architecture", "status": "Completed"},
-                    {"nome": "Aplicando o Design System", "status": "In Progress"},
-                    {"nome": "Aplicando o TDD", "status": "Pending"},
-                    {"nome": "Criando fluxos de telas", "status": "Pending"},
-                    {"nome": "Criando trilhas de aprendizado", "status": "Pending"},
-                    {"nome": "Criando flashcards", "status": "Pending"}
+                    {"nome": "Aplicando o Design System", "status": "Completed"},
+                    {"nome": "Criando fluxos de telas", "status": "Completed"},
+                    {"nome": "Criando flashcards", "status": "In Progress"},
+                    {"nome": "Criando trilhas de aprendizado", "status": "In Progress"},
                 ]
             },
             {
                 "nome": "Animações e Interface",
                 "status": "Pending",
-                "data_prevista": "24/03/2025",
+                "data_prevista": "25/03/2025",
                 "tarefas": [
                     {"nome": "Estudando animações (Rive e Flutter)", "status": "Pending"},
                     {"nome": "Implementando animações", "status": "Pending"}
