@@ -36,7 +36,7 @@ export const ContentApp = () => {
                     {"nome": "Criando app architecture", "status": "Completed"},
                     {"nome": "Aplicando o Design System", "status": "Completed"},
                     {"nome": "Criando fluxos de telas", "status": "Completed"},
-                    {"nome": "Criando flashcards", "status": "In Progress"},
+                    {"nome": "Criando flashcards", "status": "Completed"},
                     {"nome": "Criando trilhas de aprendizado", "status": "In Progress"},
                 ]
             },
