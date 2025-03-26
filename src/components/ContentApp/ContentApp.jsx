@@ -37,12 +37,13 @@ export const ContentApp = () => {
                     {"nome": "Aplicando o Design System", "status": "Completed"},
                     {"nome": "Criando fluxos de telas", "status": "Completed"},
                     {"nome": "Criando flashcards", "status": "Completed"},
-                    {"nome": "Criando trilhas de aprendizado", "status": "In Progress"},
+                    {"nome": "Criando trilhas de aprendizado", "status": "Completed"},
+                    {"nome": "Criando Gráficos", "status": "In Progress"},
                 ]
             },
             {
                 "nome": "Animações e Interface",
-                "status": "Pending",
+                "status": "In Progress",
                 "data_prevista": "25/03/2025",
                 "tarefas": [
                     {"nome": "Estudando animações (Rive e Flutter)", "status": "Pending"},
