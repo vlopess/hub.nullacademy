@@ -60,7 +60,7 @@ export const ContentApp = () => {
                 ]
             },
             {
-                "nome": "MVP & Feedback",
+                "nome": "Primeira Entrega",
                 "status": "Pending",
                 "data_prevista": "31/03/2025",
                 "tarefas": [
