@@ -46,7 +46,7 @@ export const ContentApp = () => {
                 "status": "In Progress",
                 "data_prevista": "25/03/2025",
                 "tarefas": [
-                    {"nome": "Estudando animações (Rive e Flutter)", "status": "Pending"},
+                    {"nome": "Estudando animações (Rive e Flutter)", "status": "In Progress"},
                     {"nome": "Implementando animações", "status": "Pending"}
                 ]
             },
