@@ -52,11 +52,13 @@ export const ContentApp = () => {
             },
             {
                 "nome": "Testing",
-                "status": "Completed",
+                "status": "In Progress",
                 "data_prevista": "26/03/2025",
                 "tarefas": [
                     {"nome": "Testando em dispositivos (Android e iOS)", "status": "Completed"},
-                    {"nome": "Corrigindo problemas identificados", "status": "Completed"}
+                    {"nome": "Corrigindo problemas identificados", "status": "Completed"},
+                    {"nome": "Testes de verificação", "status": "In Progress"},
+                    {"nome": "Testes de validação", "status": "In Progress"}
                 ]
             },
             {
