@@ -62,12 +62,13 @@ export const ContentApp = () => {
                 ]
             },
             {
-                "nome": "Primeira Entrega",
+                "nome": "Entrega",
                 "status": "In Progress",
                 "data_prevista": "31/03/2025",
                 "tarefas": [
                     {"nome": "Primeira Entrega", "status": "In Progress"},
-                    {"nome": "Feedback e corrigindo problemas identificados", "status": "Pending"}
+                    {"nome": "Segunda Entrega", "status": "Pending"},
+                    {"nome": "Terceira Entrega", "status": "Pending"},
                 ]
             },
         ]
